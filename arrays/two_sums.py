@@ -1,5 +1,6 @@
 # Problem: Two Sum
 # Approach: Hash Map
+#category:array
 
 def two_sum(nums, target):
     seen = {}
