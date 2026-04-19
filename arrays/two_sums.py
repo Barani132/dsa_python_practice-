@@ -1,6 +1,7 @@
 # Problem: Two Sum
 # Approach: Hash Map
 #category:array
+#time Complexity:O(n)
 
 def two_sum(nums, target):
     seen = {}
