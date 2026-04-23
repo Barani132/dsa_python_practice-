@@ -1,3 +1,8 @@
+# Problem: Search Insert Position
+# Category: Binary Search
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
+
 nums = [1,3,5,6]
 target = 5
 
