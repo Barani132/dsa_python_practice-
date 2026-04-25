@@ -1,3 +1,8 @@
+# Problem: Min Stack
+# Category: Stack
+# Time Complexity: O(1)
+# Space Complexity: O(n)
+
 stack = []
 min_stack = []
 
