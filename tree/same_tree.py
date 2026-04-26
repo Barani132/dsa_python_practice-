@@ -1,4 +1,8 @@
 # Problem: Same Tree
+# Category: Tree
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
 def is_same(p, q):
     if not p and not q:
         return True
