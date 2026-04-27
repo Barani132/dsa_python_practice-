@@ -1,4 +1,7 @@
 # Problem: GCD & LCM
+# Category: Math
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
 
 def gcd(a, b):
     while b:
