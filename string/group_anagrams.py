@@ -1,3 +1,7 @@
+# Problem: Group Anagrams
+# Category: Hashing
+# Time Complexity: O(n*k log k)
+# Space Complexity: O(n)
 
 from collections import defaultdict
 
