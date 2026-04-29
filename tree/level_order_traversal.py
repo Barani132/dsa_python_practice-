@@ -1,6 +1,7 @@
 # Problem: Level Order Traversal
 # Category: Tree / BFS
-
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 from collections import deque
 
 class Node:
