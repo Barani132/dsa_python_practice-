@@ -1,3 +1,8 @@
+# Problem: 0/1 Knapsack
+# Category: Dynamic Programming
+# Time Complexity: O(n*w)
+# Space Complexity: O(w)
+
 weights = [1,2,3]
 values = [6,10,12]
 capacity = 5
