@@ -1,3 +1,7 @@
+# Problem: Implement Trie
+# Category: Trie
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 
 class TrieNode:
     def __init__(self):
