@@ -1,3 +1,7 @@
+#Problem: merge sort
+# Category: sorting
+# Time: O(n log n)
+#Space: O(n)
 
 def merge_sort(arr):
     if len(arr) <= 1:
