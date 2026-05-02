@@ -1,3 +1,7 @@
+#Problem: Reverse Linked list
+# Category: Linked list
+# Time: O(n)
+# Space: O(1)
 class Node:
     def __init__(self, val):
         self.val = val
@@ -14,5 +18,3 @@ def reverse_list(head):
         curr = nxt
 
     return prev
-
-# Time: O(n), Space: O(1)
