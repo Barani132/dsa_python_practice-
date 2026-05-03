@@ -1,3 +1,8 @@
+# Problem: Breadth First Search (BFS)
+# Category: Graphs
+# Time Complexity: O(V + E)
+# Space Complexity: O(V)
+
 from collections import deque
 
 def bfs(graph, start):
