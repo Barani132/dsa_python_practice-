@@ -1,9 +1,7 @@
-"""
-Problem: Fibonacci using DP
-Category: Dynamic Programming
-Time Complexity: O(n)
-Space Complexity: O(n)
-"""
+# Problem: Fibonacci using DP
+# Category: Dynamic Programming
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 
 def fib(n):
     if n <= 1:
