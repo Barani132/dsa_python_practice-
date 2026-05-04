@@ -1,9 +1,7 @@
-"""
-Problem: Height of Binary Tree
-Category: Trees
-Time Complexity: O(n)
-Space Complexity: O(h)
-"""
+# Problem: Height of Binary Tree
+# Category: Trees
+# Time Complexity: O(n)
+# Space Complexity: O(h)
 
 def height(root):
     if not root:
