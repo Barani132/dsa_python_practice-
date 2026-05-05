@@ -1,3 +1,8 @@
+Problem: Depth First Search (DFS)
+Category: Graphs
+Time Complexity: O(V + E)
+Space Complexity: O(V)
+
 
 def dfs(graph, node, visited=None):
     if visited is None:
