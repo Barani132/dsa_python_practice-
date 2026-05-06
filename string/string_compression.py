@@ -1,3 +1,7 @@
+# Problem: String Compression
+# Category: Strings
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 
 def compress(chars):
     i = 0
