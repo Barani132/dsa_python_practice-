@@ -1,9 +1,7 @@
-"""
-Problem: Move All Zeros to End
-Category: Arrays
-Time Complexity: O(n)
-Space Complexity: O(1)
-"""
+# Problem: Move All Zeros to End
+# Category: Arrays
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 
 def move_zeros(nums):
     j = 0
