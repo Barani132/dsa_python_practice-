@@ -1,3 +1,7 @@
+# Problem: Find Middle of Linked List
+# Category: Linked List
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 
 def middle_node(head):
     slow = fast = head
