@@ -1,9 +1,7 @@
-"""
-Problem: Spiral Matrix Traversal
-Category: Matrix
-Time Complexity: O(n * m)
-Space Complexity: O(1)
-"""
+# Problem: Spiral Matrix Traversal
+# Category: Matrix
+# Time Complexity: O(n * m)
+# Space Complexity: O(1)
 
 def spiral_order(matrix):
     result = []
@@ -21,5 +19,4 @@ def spiral_order(matrix):
         if matrix and matrix[0]:
             for row in matrix[::-1]:
                 result.append(row.pop(0))
-
     return result
