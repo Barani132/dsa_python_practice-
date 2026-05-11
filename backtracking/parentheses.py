@@ -1,9 +1,7 @@
-"""
-Problem: Generate Parentheses
-Category: Backtracking
-Time Complexity: O(2^n)
-Space Complexity: O(n)
-"""
+# Problem: Generate Parentheses
+# Category: Backtracking
+# Time Complexity: O(2^n)
+# Space Complexity: O(n)
 
 def generate_parentheses(n):
     result = []
