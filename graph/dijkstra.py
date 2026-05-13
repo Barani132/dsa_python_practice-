@@ -1,9 +1,7 @@
-"""
-Problem: Dijkstra's Shortest Path
-Category: Graphs
-Time Complexity: O(E log V)
-Space Complexity: O(V)
-"""
+# Problem: Dijkstra's Shortest Path
+# Category: Graph
+# Time Complexity: O(E log V)
+# Space Complexity: O(V)
 
 import heapq
 
