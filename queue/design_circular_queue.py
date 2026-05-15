@@ -1,9 +1,7 @@
-"""
-Problem: Design Circular Queue
-Category: Queue
-Time Complexity: O(1)
-Space Complexity: O(k)
-"""
+# Problem: Design Circular Queue
+# Category: Queue
+# Time Complexity: O(1)
+# Space Complexity: O(k)
 
 class MyCircularQueue:
 
