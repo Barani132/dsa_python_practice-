@@ -1,9 +1,7 @@
-"""
-Problem: Permutation in String
-Category: Sliding Window
-Time Complexity: O(n)
-Space Complexity: O(1)
-"""
+# Problem: Permutation in String
+# Category: Sliding Window
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 
 from collections import Counter
 
