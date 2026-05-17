@@ -1,9 +1,7 @@
-"""
-Problem: Topological Sort
-Category: Graphs
-Time Complexity: O(V + E)
-Space Complexity: O(V)
-"""
+# Problem: Topological Sort
+# Category: Graphs
+# Time Complexity: O(V + E)
+# Space Complexity: O(V)
 
 from collections import deque
 
