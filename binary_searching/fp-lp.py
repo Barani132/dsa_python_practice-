@@ -1,9 +1,7 @@
-"""
-Problem: Find First and Last Position of Element
-Category: Binary Search
-Time Complexity: O(log n)
-Space Complexity: O(1)
-"""
+# Problem: Find First and Last Position of Element
+# Category: Binary Search
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
 
 def search_range(nums, target):
 
