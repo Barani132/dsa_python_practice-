@@ -1,9 +1,7 @@
-"""
-Problem: Symmetric Tree
-Category: Trees
-Time Complexity: O(n)
-Space Complexity: O(h)
-"""
+# Problem: Symmetric Tree
+# Category: Trees
+# Time Complexity: O(n)
+# Space Complexity: O(h)
 
 def is_symmetric(root):
 
