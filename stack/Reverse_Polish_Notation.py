@@ -1,9 +1,7 @@
-"""
-Problem: Evaluate Reverse Polish Notation
-Category: Stack
-Time Complexity: O(n)
-Space Complexity: O(n)
-"""
+# Problem: Evaluate Reverse Polish Notation
+# Category: Stack
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 
 def eval_rpn(tokens):
     stack = []
