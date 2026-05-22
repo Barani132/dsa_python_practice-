@@ -1,9 +1,7 @@
-"""
-Problem: Tower of Hanoi
-Category: Recursion
-Time Complexity: O(2^n)
-Space Complexity: O(n)
-"""
+# Problem: Tower of Hanoi
+# Category: Recursion
+# Time Complexity: O(2^n)
+# Space Complexity: O(n)
 
 def tower_of_hanoi(n, source, auxiliary, destination):
 
