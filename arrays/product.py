@@ -1,9 +1,8 @@
-"""
-Problem: Product of Array Except Self
-Category: Arrays
-Time Complexity: O(n)
-Space Complexity: O(1)
-"""
+# Problem: Product of Array Except Self
+# Category: Arrays
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 
 def product_except_self(nums):
 
