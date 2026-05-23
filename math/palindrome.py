@@ -1,9 +1,7 @@
-"""
-Problem: Palindrome Number
-Category: Math
-Time Complexity: O(log n)
-Space Complexity: O(1)
-"""
+# Problem: Palindrome Number
+# Category: Math
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
 
 def is_palindrome_number(x):
 
