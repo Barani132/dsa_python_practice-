@@ -1,9 +1,7 @@
-"""
-Problem: Longest Palindromic Substring
-Category: Strings
-Time Complexity: O(n^2)
-Space Complexity: O(1)
-"""
+# Problem: Longest Palindromic Substring
+# Category: Strings
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
 
 def longest_palindrome(s):
 
