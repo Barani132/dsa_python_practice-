@@ -1,9 +1,7 @@
-"""
-Problem: Combination Sum
-Category: Backtracking
-Time Complexity: O(2^n)
-Space Complexity: O(target)
-"""
+# Problem: Combination Sum
+# Category: Backtracking
+# Time Complexity: O(2^n)
+# Space Complexity: O(target)
 
 def combination_sum(candidates, target):
 
