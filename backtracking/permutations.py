@@ -1,9 +1,7 @@
-"""
-Problem: Generate All Permutations
-Category: Backtracking
-Time Complexity: O(n × n!)
-Space Complexity: O(n)
-"""
+# Problem: Generate All Permutations
+# Category: Backtracking
+# Time Complexity: O(n × n!)
+# Space Complexity: O(n)
 
 def permute(nums):
 
