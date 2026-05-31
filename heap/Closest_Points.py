@@ -1,9 +1,7 @@
-"""
-Problem: K Closest Points to Origin
-Category: Heap
-Time Complexity: O(n log k)
-Space Complexity: O(k)
-"""
+# Problem: K Closest Points to Origin
+# Category: Heap
+# Time Complexity: O(n log k)
+# Space Complexity: O(k)
 
 import heapq
 
