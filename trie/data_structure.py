@@ -1,9 +1,7 @@
-"""
-Problem: Design Add and Search Words Data Structure
-Category: Trie
-Time Complexity: O(n)
-Space Complexity: O(n)
-"""
+# Problem: Design Add and Search Words Data Structure
+# Category: Trie
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 
 class TrieNode:
 
