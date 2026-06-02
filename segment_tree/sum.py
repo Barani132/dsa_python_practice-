@@ -1,9 +1,7 @@
-"""
-Problem: Range Sum Query
-Category: Segment Tree
-Time Complexity: O(log n)
-Space Complexity: O(n)
-"""
+# Problem: Range Sum Query
+# Category: Segment Tree
+# Time Complexity: O(log n)
+# Space Complexity: O(n)
 
 class SegmentTree:
 
