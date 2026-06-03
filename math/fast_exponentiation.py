@@ -1,9 +1,7 @@
-"""
-Problem: Fast Exponentiation
-Category: Math
-Time Complexity: O(log n)
-Space Complexity: O(1)
-"""
+# Problem: Fast Exponentiation
+# Category: Math
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
 
 def fast_power(x, n):
 
